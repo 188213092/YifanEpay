@@ -1,0 +1,34 @@
+{
+  "name": "yifanepay",
+  "version": "1.0.0",
+  "description": "YifanEpay是为没有微信支付和支付宝支付的个人Node开发者提供的易支付，此库支持市面上主流的易支付系统对接",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.29.4",
+    "utility": "^1.17.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "yifanepay",
+    "yifan",
+    "易支付",
+    "epay",
+    "支付",
+    "node支付",
+    "微信支付",
+    "支付宝支付",
+    "微信",
+    "支付宝"
+  ],
+  "author": {
+    "name": "Mengyifan",
+    "email": "188213092@qq.com"
+  }
+}
